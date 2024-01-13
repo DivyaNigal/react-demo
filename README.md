@@ -1,4 +1,4 @@
 # react-demo
 This is my first demo
 <br>
-Auther-Divya Nigal
+Auther-Divya (react-demo)
